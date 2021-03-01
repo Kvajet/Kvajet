@@ -6,8 +6,6 @@ My name is Jan Tichý (may be known as Kvajet), I am/was student at CTU, faculty
 
 I am programmer, aren't I? I would say so. I am interested in all kinds of programming languages but my heart fell in love with good old C.
 
----
-
 ## This section exists only because of GitHub recommendation 🤷
 
 - 🔭 I’m currently working on my Twitch bot, Learn Cards Project and probably more. 😅
